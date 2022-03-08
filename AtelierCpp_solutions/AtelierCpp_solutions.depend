@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1646344564 source:c:\users\goubi\documents\github\progfest\ateliers\solutionnaires\ateliercpp_solutions\main.cpp
+	<iostream>
+	"Vecteur.h"
+
+1646344544 c:\users\goubi\documents\github\progfest\ateliers\solutionnaires\ateliercpp_solutions\include\vecteur.h
+	<string>
+	<vector>
+	<sstream>
+	<iostream>
+	<cmath>
+
+1646344679 source:c:\users\goubi\documents\github\progfest\ateliers\solutionnaires\ateliercpp_solutions\src\vecteur.cpp
+	"Vecteur.h"
+

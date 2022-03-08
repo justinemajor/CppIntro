@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1584201820 source:c:\users\goubi\documents\github\progfest\ateliers\exercices\ateliercpp\ateliercpp\main.cpp
+	<iostream>
+
+1646406983 source:c:\users\goubi\documents\github\progfest\ateliers\exercices\ateliercpp\ateliercpp\src\vecteur.cpp
+	"Vecteur.h"
+
+1646406890 c:\users\goubi\documents\github\progfest\ateliers\exercices\ateliercpp\ateliercpp\include\vecteur.h
+	<string>
+	<vector>
+	<sstream>
+	<iostream>
+	<cmath>
+
